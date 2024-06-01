@@ -1,6 +1,18 @@
 # SecFish
 
-Technology Stack
+Introduction:
+
+SecFish is a secure file sharing platform with End to End Encryption that ensures the confidentiality and integrity of shared files. The platform employs end-to-end encryption techniques to protect data at rest and in transit, providing users with a secure environment for sharing sensitive information.
+
+Features: 
+
+* End-to-End Encryption
+* User Authentication and Authorization
+* Secure Storage and Transfer
+* Scalability and Performance
+* Cross platform compatibility with better user-interface
+
+Technology Stack:
 
 Frontend: HTML, CSS, Bootstrap
 Backend: Node.js, Express.js
@@ -8,7 +20,7 @@ Database: MongoDB
 Encryption Algorithm:- AES-256
 
 
-Screenshots
+Screenshots:
 
 Registration Page: ![register1](https://github.com/MAHESHBANDUNI/SecFish/assets/114943739/919620a3-2d32-40af-a086-864692b8c638)
 
