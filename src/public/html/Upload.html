@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="\style4.css">
+    <title>SecFISH: File Upload</title>
+  
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h3>Upload Files</h3>
+      <div class="drop_box">
+        <header>
+          <h4>Select File here</h4>
+        </header>
+        <p>Files Supported: PDF, TEXT, DOC , DOCX</p>
+        <input type="file" hidden accept=".doc,.docx,.pdf" id="fileID" style="display:none;">
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+          <input type="file" required name="filename"><br><br>
+          
+          <input type="password" required name="passw" placeholder="Password" style="font-size: 12pt; height: 30px; width:280px; padding: 10px" ><br><br>
+  
+          <button type="submit" class="btn">Upload</button>
+        </form>
+      </div>
+  
+    </div>
+  </div>
+  
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+A secure file storage platform with end to end encryption
