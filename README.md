@@ -14,10 +14,10 @@ Features:
 
 Technology Stack:
 
-Frontend: HTML, CSS, Bootstrap
-Backend: Node.js, Express.js
-Database: MongoDB
-Encryption Algorithm:- AES-256
+* Frontend: HTML, CSS, Bootstrap
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Encryption Algorithm:- AES-256
 
 
 Screenshots:
