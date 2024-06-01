@@ -1,5 +1,13 @@
 # SecFish
 
+Technology Stack
+
+Frontend: HTML, CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Encryption Algorithm:- AES-256
+
+
 Screenshots
 
 Registration Page: ![register1](https://github.com/MAHESHBANDUNI/SecFish/assets/114943739/919620a3-2d32-40af-a086-864692b8c638)
